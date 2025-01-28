@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mquI49KDxK5rXmSWMJdyTKHAjhSKkV8CCD84kd9PSr8S/ARhJlJhCWKVyrKbDdSjiCkac2b/YPloj7wIpAEcw==",
+  "success": true,
+  "projectFilePath": "C:\\IT_analytics\\C#\\WebScraperForHeadhunterSite_16MarchRawVersion\\WebScraperForHeadhunterSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79269\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512",
+    "C:\\Users\\79269\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\79269\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\79269\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\79269\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
